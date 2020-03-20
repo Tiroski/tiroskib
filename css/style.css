@@ -1,0 +1,182 @@
+    body {
+        margin: 0;
+        text-align: center;
+        font-family: 'Sacramento', cursive, 'Merriweather Sans', sans-serif;
+    }
+    
+    .myname {
+        color: #40514E;
+        font-family: 'Sacramento', cursive;
+        width: 30%;
+        margin: auto;
+    }
+    
+    .hc {
+        position: static;
+        width: 300px;
+        height: 200px;
+        background-color: transparent;
+    }
+    
+    h1 {
+        margin: 2px auto 0 auto;
+        font-family: 'Sacramento', cursive;
+        font-size: 5rem;
+        color: #66BFBF;
+    }
+    
+    h2 {
+        font-family: 'Sacramento', cursive, 'Merriweather Sans', sans-serif;
+        font-size: 2.5rem;
+        color: #66BFBF;
+    }
+    
+    h3 {
+        font-family: 'Montserrat', sans-serif;
+        color: #11999E;
+    }
+    
+    a {
+        color: #11999E;
+    }
+    
+    .programer {
+        font-weight: normal;
+        font-size: 25px;
+    }
+    
+    .top-container {
+        padding-top: 10px;
+        position: relative;
+        background-color: #ecf4f3;
+    }
+    
+    .bottom-container {
+        background-color: #66BFBF;
+        height: 100px;
+        padding-top: 20px;
+        text-align: center;
+    }
+    
+    .copyright {
+        color: #EAF6F6;
+    }
+    
+    .skill-row {
+        color: #11999E;
+        text-align: center;
+        width: 50%;
+        margin: 100px auto 100px auto;
+        text-align: left;
+        line-height: 2;
+    }
+    
+    .profpic {
+        width: 200px;
+        height: 200px;
+    }
+    
+    .skill {
+        width: 25%;
+        float: left;
+        margin-right: 30px;
+    }
+    
+    .compic {
+        color: #11999E;
+        width: 25%;
+        float: right;
+        margin-left: 30px;
+    }
+    
+    hr {
+        color: #EAF6F6;
+        border-style: dotted none none none;
+        border-width: 10px;
+        width: 7%;
+    }
+    
+    .btn {
+        background: #11CDD4;
+        background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+        background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+        background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+        background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+        background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+        -webkit-border-radius: 8px;
+        -moz-border-radius: 8px;
+        border-radius: 8px;
+        color: #FFFFFF;
+        font-family: 'Sacramento', cursive, 'Merriweather Sans', sans-serif;
+        font-size: 20px;
+        font-weight: 100;
+        padding: 19px;
+        box-shadow: 1px 1px 20px 0px #000000;
+        -webkit-box-shadow: 1px 1px 20px 0px #000000;
+        -moz-box-shadow: 1px 1px 20px 0px #000000;
+        text-shadow: 1px 1px 20px #000000;
+        border: solid #337FED 1px;
+        text-decoration: none;
+        display: inline-block;
+        cursor: pointer;
+        text-align: center;
+    }
+    
+    .btn:hover {
+        border: solid #337FED 1px;
+        background: #30E3CB;
+        background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AC);
+        background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AC);
+        background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AC);
+        background-image: -o-linear-gradient(top, #30E3CB, #2BC4AC);
+        background-image: linear-gradient(to bottom, #30E3CB, #2BC4AC);
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        border-radius: 20px;
+        text-decoration: none;
+    }
+    
+    .footer-link {
+        margin-left: 20px;
+        color: #11999E;
+        letter-spacing: 2px;
+        text-decoration: none;
+        font-family: 'Sacramento', cursive, 'Merriweather Sans', sans-serif;
+    }
+    
+    .footer-link:hover {
+        text-decoration: none;
+        background-image: url("img/cloud.png");
+        background-repeat: no-repeat;
+        background-size: 100px;
+    }
+    
+    .email {
+        color: #11999E;
+    }
+    
+    .youtube {
+        color: #11999E;
+        text-align: center;
+        text-decoration: none;
+    }
+    
+    .youtube:hover {
+        color: black;
+        background-size: 100px;
+    }
+    
+    .nav {
+        background-color: #ecf4f3;
+        padding: 50px;
+        color: #11999E;
+        letter-spacing: 2px;
+        text-decoration: none;
+        font-family: 'Sacramento', cursive, 'Merriweather Sans', sans-serif;
+        font-size: 30px;
+    }
+    
+    .nav a:hover {
+        background-color: #ecf4f3;
+        background-image: url(img/cloud.png);
+    }
